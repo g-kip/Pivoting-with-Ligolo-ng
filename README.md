@@ -10,6 +10,8 @@ and Ligolo-ng for tunneling.
 - **Venus** can reach **Earth**
 - Goal: compromise Mercury → pivot to Venus → pivot to Earth
 
+![Pivoing Lab Setup](./assets/lab-topology.png)
+
 Host-only VirtualBox adapters (vboxnet0, vboxnet1, vboxnet2) were used to 
 enforce this segmentation, replicating the kind of network isolation you'd 
 encounter in a real internal penetration test.
